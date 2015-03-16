@@ -1,0 +1,2 @@
+/usr/bin/ar cr libcolor_scanlib.a  CMakeFiles/color_scanlib.dir/color_scanlib.cpp.o
+/usr/bin/ranlib libcolor_scanlib.a

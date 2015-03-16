@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dennn/3dscaner/arduino_driver.c
+stdlib.h
+-
+stdio.h
+-
+errno.h
+-
+termios.h
+-
+unistd.h
+-
+string.h
+-
+arduino_driver.h
+/home/dennn/3dscaner/arduino_driver.h
+
+/home/dennn/3dscaner/arduino_driver.h
+

@@ -1,0 +1,2 @@
+/usr/bin/ar cr librenderlib.a  CMakeFiles/renderlib.dir/renderlib.cpp.o
+/usr/bin/ranlib librenderlib.a

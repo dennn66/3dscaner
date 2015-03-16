@@ -1,0 +1,9 @@
+/home/dennn/3dscaner/CMakeFiles/arduino_driver.dir
+/home/dennn/3dscaner/CMakeFiles/calibrate.dir
+/home/dennn/3dscaner/CMakeFiles/capture.dir
+/home/dennn/3dscaner/CMakeFiles/capturelib.dir
+/home/dennn/3dscaner/CMakeFiles/color_select_helper.dir
+/home/dennn/3dscaner/CMakeFiles/filter.dir
+/home/dennn/3dscaner/CMakeFiles/render.dir
+/home/dennn/3dscaner/CMakeFiles/scan.dir
+/home/dennn/3dscaner/CMakeFiles/scanlib.dir

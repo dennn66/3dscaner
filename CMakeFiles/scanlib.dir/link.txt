@@ -1,0 +1,2 @@
+/usr/bin/ar cr libscanlib.a  CMakeFiles/scanlib.dir/scanlib.cpp.o
+/usr/bin/ranlib libscanlib.a

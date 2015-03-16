@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dennn/3dscaner/color_select_helper.cpp
+cv.h
+-
+highgui.h
+-
+stdlib.h
+-
+stdio.h
+-
+
